@@ -1,0 +1,18 @@
+---
+title: "final_report"
+author: "Macarena"
+date: "25/12/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Health Expenditures Project
+
+Health policy in the United States of America is complicated, and several forms of healthcare coverage exist, including that of federal government-led healthcare programs and that of private insurance companies. We are interested in getting sense of the health expenditure, including healthcare coverage and healthcare spending, across the United States. More specifically, the questions are:
+
+Is there a relationship between healthcare coverage and healthcare spending in the United States?
+How does the spending distribution change across geographic regions in the United States?
+Does the relationship between healthcare coverage and healthcare spending in the United States change from 2013 to 2014?
